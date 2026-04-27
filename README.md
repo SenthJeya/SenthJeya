@@ -125,7 +125,7 @@ Simulated genetic datasets (10× CSV files, 4000 samples) used in thesis on Mach
 </div>
 
 ## Contact
-📧 **senthuranj.offi@gmail.com** (visible in repository metadata)
+📧 **senthuranj.offi@gmail.com** 
 
 ---
 
