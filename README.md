@@ -131,5 +131,4 @@ Simulated genetic datasets (10× CSV files, 4000 samples) used in thesis on Mach
 
 <div align="center" style="margin-top: 2rem; color: #666;">
   <sub>Generated from visible profile data only • Black & Gold theme • Ready to copy-paste</sub>
->>>>>>> 71120fbf39850b93327073f28546317c9fc8ae98
 </div>
