@@ -68,11 +68,10 @@ I am actively developing diverse full-stack projects, focusing on React, Spring 
 
 ---
 <div align="center">
-  <i>"Writing clean code and bringing ideas to life, one line at a time."</i>
-=======
   [![GitHub](https://img.shields.io/badge/GitHub-SenthJeya-000000?style=for-the-badge&logo=github&logoColor=#FFD700)](https://github.com/SenthJeya)
   [![Followers](https://img.shields.io/github/followers/SenthJeya?color=#FFD700&style=for-the-badge&logo=github&logoColor=black)](https://github.com/SenthJeya)
 
+  <i>"Writing clean code and bringing ideas to life, one line at a time."</i>
 </div>
 
 ---
