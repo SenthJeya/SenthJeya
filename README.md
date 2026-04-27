@@ -3,7 +3,7 @@
   <h1 style="margin: 0; color: #FFD700;">Senthuran Jeiyachandiran</h1>
   <p style="color: #CCCCCC; font-size: 1.2em;">Building web, mobile & data solutions • JavaScript & PHP projects</p>
 
-<<<<<<< HEAD
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=530&lines=Full-Stack+Web+Developer;React+%26+Spring+Boot+Developer;PHP+%26+JavaScript+Enthusiast;Machine+Learning+Researcher" alt="Typing SVG" />
 </p>
