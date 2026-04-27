@@ -66,15 +66,24 @@ I am actively developing diverse full-stack projects, focusing on React, Spring 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SenthJeya&theme=tokyonight&hide_border=true&background=0D1117" alt="SenthJeya GitHub Streak" />
 </div>
 
----
-<div align="center">
+
+<!-- <div align="center">
   [![GitHub](https://img.shields.io/badge/GitHub-SenthJeya-000000?style=for-the-badge&logo=github&logoColor=#FFD700)](https://github.com/SenthJeya)
   [![Followers](https://img.shields.io/github/followers/SenthJeya?color=#FFD700&style=for-the-badge&logo=github&logoColor=black)](https://github.com/SenthJeya)
 
   <i>"Writing clean code and bringing ideas to life, one line at a time."</i>
+</div> -->
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-SenthJeya-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SenthJeya)
+[![Followers](https://img.shields.io/github/followers/SenthJeya?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SenthJeya)
+
+<i>"Writing clean code and bringing ideas to life, one line at a time."</i>
+
 </div>
 
----
+
 
 ## About Me
 GitHub profile showcasing active repositories in full-stack web development, mobile applications, task management tools, interactive utilities, and simulated datasets for machine learning research.
