@@ -3,26 +3,24 @@
 # 👋 Hi there, I'm Senthuran Jeiyachandiran (SenthJeya)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Mobile+App+Developer;Java+Spring+Boot+Enthusiast;MERN+%26+Backend+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=530&lines=Full-Stack+Web+Developer;React+%26+Spring+Boot+Developer;PHP+%26+JavaScript+Enthusiast;Machine+Learning+Researcher" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/SenthJeya">
-    <img src="https://komarev.com/ghpvc/?username=SenthJeya&label=Profile%20Visitors&color=0e75b6&style=flat-square" alt="SenthJeya profile visitors" />
-  </a>
-</p>
-
-A passionate developer dedicated to building scalable web applications, cross-platform mobile apps, and robust backend services. 
+A passionate developer dedicated to building practical web applications, engaging user interfaces, and robust backend systems.
 
 ---
 
 </div>
 
 ### 🚀 What I'm Up To
-- 🔭 **Currently working on & exploring:** Dockerizing expansive full-stack (MERN) architectures, developing polished React Native mobile screens (like Astrology apps & user login systems), and building robust Java-based backends with Spring Boot.
-- 🌱 **Getting better at:** Data Science integration (`scikit-learn` in Python), custom React UI animations, Docker-compose orchestrations, and JPA/Hibernate.
-- 💬 **Ask me about:** Java, React, React Native, MERN stack, APIs, and sorting out complex backend logic!
-- 📫 **How to reach me:** Feel free to drop a message or explore my repositories!
+I am actively developing diverse full-stack projects, focusing on React, Spring Boot, PHP, and JavaScript. Here's a look at what I'm currently working on & my top repositories:
+
+- 🎬 **MovieStore:** A full-stack movie management platform developed with **React** and **Spring Boot**, featuring a dynamic dashboard and comprehensive admin suite.
+- ❤️ **LoveMeter:** A beautiful, privacy-first Love Calculator web application built with **React, Vite, and Tailwind CSS**, featuring persistent confetti and a dark-mode UI.
+- 🍔 **Express-Foods:** A dynamic food ordering and management platform built with **PHP**, streamlining food orders for both admins and users.
+- 🎓 **University-Event-Management:** A role-based **JavaScript** dashboard system designed for Vice Chancellors, Deans, and Students to handle university events.
+- 🔬 **T2D-Epistasis-Detection:** My thesis work involving **Machine Learning** datasets to detect epistatic gene pairs in Type 2 Diabetes.
+- ✅ **DUTU:** A minimal, clutter-free task management application built in **JavaScript** to boost productivity.
 
 ---
 
@@ -30,27 +28,24 @@ A passionate developer dedicated to building scalable web applications, cross-pl
 
 <p align="left">
   <!-- Languages -->
-  <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
   <br/><br/>
   
-  <!-- Frontend & Mobile -->
+  <!-- Frontend & Styling -->
   <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/></a>
   <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
   <br/><br/>
 
-  <!-- Backend & Databases -->
+  <!-- Backend -->
   <a href="#"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
   <br/><br/>
-
-  <!-- Tools & Devops -->
-  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
+  
+  <!-- Tools -->
   <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
 </p>
 

@@ -1,0 +1,42 @@
+﻿[
+    {
+        "name":  "BDwisher",
+        "description":  null,
+        "language":  "JavaScript"
+    },
+    {
+        "name":  "Crown-Travels",
+        "description":  null,
+        "language":  "JavaScript"
+    },
+    {
+        "name":  "DUTU",
+        "description":  "Dutu is a simple and efficient task management app designed to help users stay organized and productive. With a focus on minimalism and usability, Dutu allows users to create, update, and manage their daily tasks with ease. Whether you\u0027re planning your day or tracking your goals, Dutu provides a clutter-free experience to keep you on track.",
+        "language":  "JavaScript"
+    },
+    {
+        "name":  "Express-Foods",
+        "description":  "Express Food is a dynamic food ordering and management system built to streamline the process of ordering food online and managing orders efficiently. The project includes features tailored for both admins and users, making it a versatile platform for food businesses.",
+        "language":  "PHP"
+    },
+    {
+        "name":  "LoveMeter",
+        "description":  "A beautiful, privacy-first Love Calculator web application built with React, Vite, and Tailwind CSS. Features stunning dark-mode UI, persistent confetti celebrations, heart-themed animations, and a custom loading screen.",
+        "language":  "JavaScript"
+    },
+    {
+        "name":  "MovieStore",
+        "description":  "MovieStore is a premium, full-stack movie management platform developed as a group project using React and Spring Boot, featuring a dynamic dashboard for discovery and a comprehensive admin suite for catalog management.",
+        "language":  "JavaScript"
+    },
+    {
+        "name":  "T2D-Epistasis-Detection-Datasets",
+        "description":  "This repository contains the simulated genetic datasets used in the thesis: \"Machine Learning for Detecting Epistatic Gene Pairs in Type 2 Diabetes\"",
+        "language":  null
+    },
+    {
+        "name":  "University-Event-Managment",
+        "description":  "A web application with role-based dashboards for Vice Chancellor, Dean, Head of Department, Academic Staff, and Students to streamline university event management.",
+        "language":  "JavaScript"
+    }
+]
