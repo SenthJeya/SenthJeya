@@ -3,9 +3,8 @@
   <h1 style="margin: 0; color: #FFD700;">Senthuran Jeiyachandiran</h1>
   <p style="color: #CCCCCC; font-size: 1.2em;">Building web, mobile & data solutions • JavaScript & PHP projects</p>
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=530&lines=Full-Stack+Web+Developer;React+%26+Spring+Boot+Developer;PHP+%26+JavaScript+Enthusiast;Machine+Learning+Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=530&lines=Software+Engineer" alt="Typing SVG" />
 </p>
 
 A passionate developer dedicated to building practical web applications, engaging user interfaces, and robust backend systems.
@@ -15,6 +14,7 @@ A passionate developer dedicated to building practical web applications, engagin
 </div>
 
 ### 🚀 What I'm Up To
+
 I am actively developing diverse full-stack projects, focusing on React, Spring Boot, PHP, and JavaScript. Here's a look at what I'm currently working on & my top repositories:
 
 - 🎬 **MovieStore:** A full-stack movie management platform developed with **React** and **Spring Boot**, featuring a dynamic dashboard and comprehensive admin suite.
@@ -44,11 +44,14 @@ I am actively developing diverse full-stack projects, focusing on React, Spring 
   <br/><br/>
 
   <!-- Backend -->
-  <a href="#"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/></a>
-  <br/><br/>
-  
+
+<a href="#"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/></a>
+<br/><br/>
+
   <!-- Tools -->
-  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+
+<a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+
 </p>
 
 ---
@@ -66,7 +69,6 @@ I am actively developing diverse full-stack projects, focusing on React, Spring 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SenthJeya&theme=tokyonight&hide_border=true&background=0D1117" alt="SenthJeya GitHub Streak" />
 </div>
 
-
 <!-- <div align="center">
   [![GitHub](https://img.shields.io/badge/GitHub-SenthJeya-000000?style=for-the-badge&logo=github&logoColor=#FFD700)](https://github.com/SenthJeya)
   [![Followers](https://img.shields.io/github/followers/SenthJeya?color=#FFD700&style=for-the-badge&logo=github&logoColor=black)](https://github.com/SenthJeya)
@@ -83,14 +85,14 @@ I am actively developing diverse full-stack projects, focusing on React, Spring 
 
 </div>
 
-
-
 ## About Me
+
 GitHub profile showcasing active repositories in full-stack web development, mobile applications, task management tools, interactive utilities, and simulated datasets for machine learning research.
 
 All projects developed and maintained under **SenthJeya**.
 
 ## Tech Stack
+
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -125,6 +127,7 @@ React Native travel app for Sri Lankan tourist destinations, bookings & payments
 Simulated genetic datasets (10× CSV files, 4000 samples) used in thesis on Machine Learning for epistatic gene detection in Type 2 Diabetes.
 
 ## GitHub Stats
+
 <div align="center">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=SenthJeya&show_icons=true&theme=tokyonight&hide_border=true&title_color=FFD700&text_color=FFFFFF&bg_color=0A0A0A)
@@ -133,7 +136,8 @@ Simulated genetic datasets (10× CSV files, 4000 samples) used in thesis on Mach
 </div>
 
 ## Contact
-📧 **senthuranj.offi@gmail.com** 
+
+📧 **senthuranj.offi@gmail.com**
 
 ---
 
