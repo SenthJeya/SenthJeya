@@ -4,7 +4,7 @@
   <p style="color: #CCCCCC; font-size: 1.2em;">Building web, mobile & data solutions • JavaScript & PHP projects</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=530&lines=Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=530&lines=SOFTWARE+ENGINEER" alt="Typing SVG" />
 </p>
 
 A passionate developer dedicated to building practical web applications, engaging user interfaces, and robust backend systems.
