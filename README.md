@@ -58,7 +58,7 @@ I am actively developing diverse full-stack projects. Here's a look at my top re
 
 ---
 
-### 📈 GitHub Stats
+<!-- ### 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SenthJeya&show_icons=true&theme=tokyonight&hide_border=true&title_color=FFD700&text_color=FFFFFF&bg_color=0A0A0A" alt="GitHub Stats" />
@@ -80,12 +80,11 @@ I am actively developing diverse full-stack projects. Here's a look at my top re
 
 </div>
 
----
+--- -->
 
 ### 📧 Contact
 
 I'm always open to collaborating on interesting projects!
 
 - **Email:** senthuranj.offi@gmail.com
-- **LinkedIn:** [Senthuran Jeiyachandiran](www.linkedin.com/in/senthuran-jeiyachandiran)
 
